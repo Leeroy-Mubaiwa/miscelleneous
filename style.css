@@ -24,6 +24,20 @@ body {
     border-color: blue;
 }
 
+.forms {
+    display: block;
+}
+
+input {
+    height: 30px;
+    width: 150px;
+    border-style: solid;
+    border-radius: 4px;
+    color: gray;
+    border-width: 1px;
+    margin: 20px;
+}
+
 .top-buttons {
     background-color: whitesmoke;
     border-style: dotted;
